@@ -1,13 +1,13 @@
 {
-    "editor.tokenColorCustomizations": {
-        "comments": "",
-        "textMateRules": [
-            {
-                "scope": "comment",
-                "settings": {
-                    "fontStyle": ""
-                }
-            }
-        ]
-    }
+  "editor.tokenColorCustomizations": {
+    "comments": "",
+    "textMateRules": [
+      {
+        "scope": "comment",
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  }
 }
